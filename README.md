@@ -29,15 +29,15 @@ This repository documents my SQL learning journey through real-world and intervi
 
 | Challenge | Difficulty | Solution |
 |-----------|------------|----------|
+| [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | Easy | [SQL](./DataLemur/Average_Post_Hiatus_Part1.sql) |
+| [Teams Power Users](https://datalemur.com/questions/teams-power-users) | Easy | [SQL](./DataLemur/Teams_Power_Users.sql) |
+| [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | Easy | [SQL](./DataLemur/Duplicate_Job_Listings.sql) |
+| [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | Easy | [SQL](./DataLemur/Cities_With_Completed_Trades.sql) |
 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | Easy | [SQL](./DataLemur/Histogram_of_Tweets.sql) |
 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | Easy | [SQL](./DataLemur/Data_Science_Skills.sql) |
 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | Easy | [SQL](./DataLemur/Page_With_No_Likes.sql) |
 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | Easy | [SQL](./DataLemur/Unfinished_Parts.sql) |
 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | Easy | [SQL](./DataLemur/Laptop_vs_Mobile_Viewership.sql) |
-| [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | Easy | [SQL](./DataLemur/Average_Post_Hiatus_Part1.sql) |
-| [Teams Power Users](https://datalemur.com/questions/teams-power-users) | Easy | [SQL](./DataLemur/Teams_Power_Users.sql) |
-| [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | Easy | [SQL](./DataLemur/Duplicate_Job_Listings.sql) |
-| [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | Easy | [SQL](./DataLemur/Cities_With_Completed_Trades.sql) |
 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | Medium | [SQL](./DataLemur/Users_Third_Transaction.sql) |
 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | Medium | [SQL](./DataLemur/Second_Highest_Salary.sql) |
 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | Medium | [SQL](./DataLemur/Sending_vs_Opening_Snaps.sql) |
@@ -59,13 +59,13 @@ This repository documents my SQL learning journey through real-world and intervi
 ```
 SQL-Problem-Solving/
 ├── DataLemur/
-│   ├── Histogram_of_Tweets.sql
-│   ├── Data_Science_Skills.sql
+│   ├── Histogram of Tweets.sql
+│   ├── Data Science Skills.sql
 │   ├── ...
 │
 ├── LeetCode/
-│   ├── Combine_Two_Tables.sql
-│   ├── Second_Highest_Salary.sql
+│   ├── Combine Two Tables.sql
+│   ├── Second Highest Salary.sql
 │   ├── ...
 │
 └── README.md
