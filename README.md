@@ -34,7 +34,7 @@ Real-world SQL challenges that I created based on business scenarios, product an
 | First User by Service | Easy | [📄](./Self-Practice/01_First_User_By_Service/README.md) | [SQL](./Self-Practice/01_First_User_By_Service/solution.sql) |
 | Monthly Cohort Retention | Medium | [📄](./Self-Practice/02_Monthly_Cohort_Retention/README.md) | [SQL](./Self-Practice/02_Monthly_Cohort_Retention/solution.sql) |
 | Rider Retention (Power vs Non-power) | Medium | [📄](./Self-Practice/03_Rider_Retention/README.md) | [SQL](./Self-Practice/03_Rider_Retention/solution.sql) |
-| Churn Duration Analysis | Hard | [📄](./Self-Practice/07_Churn_Duration_Analysis/README.md) | [SQL](./Self-Practice/07_Churn_Duration_Analysis/solution.sql) |
+| Churn Duration Analysis | Hard | [📄](./Self-Practice/07_Monthly_Churn_Duration_Analysis/README.md) | [SQL](./Self-Practice/07_Monthly_Churn_Duration_Analysis/solution.sql) |
 
 ---
 # 📘 DataLemur
