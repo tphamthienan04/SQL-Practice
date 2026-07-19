@@ -25,6 +25,23 @@ This repository documents my SQL learning journey through real-world and intervi
 
 ---
 
+## 🚀 Self Practice
+
+Real-world SQL challenges that I created based on business scenarios, product analytics, and interview questions.
+
+| Challenge | Difficulty | Problem | Solution |
+|-----------|------------|---------|----------|
+| First User by Service | Easy | [📄](./Self-Practice/01_First_User_By_Service/README.md) | [SQL](./Self-Practice/01_First_User_By_Service/solution.sql) |
+| Monthly Cohort Retention | Medium | [📄](./Self-Practice/02_Monthly_Cohort_Retention/README.md) | [SQL](./Self-Practice/02_Monthly_Cohort_Retention/solution.sql) |
+| Rider Retention (Power vs Non-power) | Medium | [📄](./Self-Practice/03_Rider_Retention/README.md) | [SQL](./Self-Practice/03_Rider_Retention/solution.sql) |
+| Monthly User Lifecycle Tag | Medium | [📄](./Self-Practice/04_User_Lifecycle_Tag/README.md) | [SQL](./Self-Practice/04_User_Lifecycle_Tag/solution.sql) |
+| User Lifecycle (LAG & LEAD) | Medium | [📄](./Self-Practice/05_User_Lifecycle_Lag_Lead/README.md) | [SQL](./Self-Practice/05_User_Lifecycle_Lag_Lead/solution.sql) |
+| Resurrect Source Analysis | Hard | [📄](./Self-Practice/06_Resurrect_Source_Analysis/README.md) | [SQL](./Self-Practice/06_Resurrect_Source_Analysis/solution.sql) |
+| Churn Duration Analysis | Hard | [📄](./Self-Practice/07_Churn_Duration_Analysis/README.md) | [SQL](./Self-Practice/07_Churn_Duration_Analysis/solution.sql) |
+| Driver Supply Hour | Hard | [📄](./Self-Practice/08_Driver_Supply_Hour/README.md) | [SQL](./Self-Practice/08_Driver_Supply_Hour/solution.sql) |
+| Driver Supply Hour (Multi-service) | Hard | [📄](./Self-Practice/09_Driver_Supply_Hour_Multi_Service/README.md) | [SQL](./Self-Practice/09_Driver_Supply_Hour_Multi_Service/solution.sql) |
+
+---
 # 📘 DataLemur
 
 | Challenge | Difficulty | Solution |
