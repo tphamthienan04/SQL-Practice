@@ -66,25 +66,6 @@ Real-world SQL challenges that I created based on business scenarios, product an
 
 ---
 
-## 📂 Repository Structure
-
-```
-SQL-Problem-Solving/
-├── DataLemur/
-│   ├── Histogram of Tweets.sql
-│   ├── Data Science Skills.sql
-│   ├── ...
-│
-├── LeetCode/
-│   ├── Combine Two Tables.sql
-│   ├── Second Highest Salary.sql
-│   ├── ...
-│
-└── README.md
-```
-
----
-
 ## 🎯 Goals
 
 - Strengthen SQL problem-solving skills.
